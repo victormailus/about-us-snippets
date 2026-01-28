@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Us using Hugo</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Us using Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>victor@mail-us.be (Victor)</managingEditor>
+    <webMaster>victor@mail-us.be (Victor)</webMaster>
+    <copyright>Copy, _right?</copyright>
+    <lastBuildDate>Mon, 26 Jan 2026 15:44:58 +0100</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Our eighth snippet</title>
+      <link>//localhost:1313/posts/our-eighth-post/</link>
+      <pubDate>Mon, 26 Jan 2026 15:44:58 +0100</pubDate>
+      <author>victor@mail-us.be (Victor)</author>
+      <guid>//localhost:1313/posts/our-eighth-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our fifth snippet</title>
+      <link>//localhost:1313/posts/our-fifth-post/</link>
+      <pubDate>Mon, 26 Jan 2026 15:44:58 +0100</pubDate>
+      <author>victor@mail-us.be (Victor)</author>
+      <guid>//localhost:1313/posts/our-fifth-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our first snippet</title>
+      <link>//localhost:1313/posts/our-first-post/</link>
+      <pubDate>Mon, 26 Jan 2026 15:44:58 +0100</pubDate>
+      <author>victor@mail-us.be (Victor)</author>
+      <guid>//localhost:1313/posts/our-first-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our fourth snippet</title>
+      <link>//localhost:1313/posts/our-fourth-post/</link>
+      <pubDate>Mon, 26 Jan 2026 15:44:58 +0100</pubDate>
+      <author>victor@mail-us.be (Victor)</author>
+      <guid>//localhost:1313/posts/our-fourth-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our second snippet</title>
+      <link>//localhost:1313/posts/our-second-post/</link>
+      <pubDate>Mon, 26 Jan 2026 15:44:58 +0100</pubDate>
+      <author>victor@mail-us.be (Victor)</author>
+      <guid>//localhost:1313/posts/our-second-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our seventh snippet</title>
+      <link>//localhost:1313/posts/our-seventh-post/</link>
+      <pubDate>Mon, 26 Jan 2026 15:44:58 +0100</pubDate>
+      <author>victor@mail-us.be (Victor)</author>
+      <guid>//localhost:1313/posts/our-seventh-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our sixth snippet</title>
+      <link>//localhost:1313/posts/our-sixth-post/</link>
+      <pubDate>Mon, 26 Jan 2026 15:44:58 +0100</pubDate>
+      <author>victor@mail-us.be (Victor)</author>
+      <guid>//localhost:1313/posts/our-sixth-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our third snippet</title>
+      <link>//localhost:1313/posts/our-third-post/</link>
+      <pubDate>Mon, 26 Jan 2026 15:44:58 +0100</pubDate>
+      <author>victor@mail-us.be (Victor)</author>
+      <guid>//localhost:1313/posts/our-third-post/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
