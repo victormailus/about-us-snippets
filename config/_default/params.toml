@@ -8,6 +8,7 @@
 colorScheme = "us"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
+customCSS = ["css/custom.css"]
 
 enableA11y = true
 enableSearch = true

@@ -21,5 +21,15 @@
       
     </item>
     
+    <item>
+      <title>Our third snippet</title>
+      <link>//localhost:1313/posts/our-third-post/</link>
+      <pubDate>Mon, 26 Jan 2026 15:44:58 +0100</pubDate>
+      <author>victor@mail-us.be (Victor)</author>
+      <guid>//localhost:1313/posts/our-third-post/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
